@@ -35,5 +35,5 @@ Compliance Incentives for Young Adults (Ages 19–35): We should capitalize on t
 Prepaid Preventive Health Program (for the uninsured segment): It can be designed a low-cost monthly or quarterly subscription package covering basic consultations and preventive screenings.
 The goal is to spread the cost of consultations over a membership model, thereby lowering the barrier of direct, per-visit payments. This encourages the 27.33% of uninsured patients to maintain continuity of care without the hassles associated with insurance companies or excessive paperwork. Customers can cancel the membership by visiting the clinic or using the mobile app.
 
- ## LINK TO FIND THE DATASET WITH ITS ANALYSIS IN GOOGLE SHEETS
+ ## LINK TO FIND THE DATASET WITH THE ANALYSIS IN GOOGLE SHEETS
  https://docs.google.com/spreadsheets/d/1z_4HCosTiTIks3SxJZLtxw2zMb2EeBBaLiURdHKJwIQ/edit?usp=sharing
